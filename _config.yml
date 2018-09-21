@@ -1,13 +1,12 @@
 # Site settings
-title: Personal Website
+title: Chaitanya Kovuri
 description: A personal website of Chaitanya Kovuri
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://ceekyay.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Chaitanya Kovuri
-user_description: I'm a Computer Science graduate from The University of Iowa. I currently work as a Software Engineer for Panasonic; building microservices using Java and Spring Framework. Below is what I'm great at.
-user_title: Software Engineer
+user_description: I am a new graduate from The University of Iowa, with a Bachelor's in Computer Science. I have had experience in designing, developing and implementing software in a variety of programming languages for a large range of projects. My experience ranges from working professionally as a software engineer to conducting research in assistive technology as a scholar. I am an innovative, passionate and hardworking individual with exceptional logical and analytical skills. Furthermore, I am quick and eager to learn and work well both individually and in a team.
 email: ckovuri16@gmail.com
 twitter_username: ceekyay
 github_username: ceekyay
@@ -15,6 +14,6 @@ gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-126112530-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
