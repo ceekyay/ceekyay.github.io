@@ -32,7 +32,7 @@
 .contents {
   @media only screen and (min-width: $cut) {
     margin-left: 0;
-    width: 48%;
+    width: 68%;
   }
 }
 
@@ -40,13 +40,14 @@
   @media only screen and (min-width: $cut) {
     float: right;
     margin-top: -5%;
-    width: 48%;
+    width: 68%;
   }
 }
 .images-right {
   @media only screen and (min-width: $cut) {
     float: right;
-    width: 48%;
+    margin-top: 5%;
+    width: 28%;
   }
   img {
     @media only screen and (min-width: $cut) {
@@ -58,7 +59,7 @@
 .images-left {
   @media only screen and (min-width: $cut) {
     float: left;
-    width: 48%;
+    width: 28%;
   }
   img {
     @media only screen and (min-width: $cut) {
